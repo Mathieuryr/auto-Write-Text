@@ -1,8 +1,11 @@
 const container = document.querySelector("div");
 
 const text = "Hello World";
+
 const limit = text.length;
+
 const interval = 400;
+
 let index = 0;
 
 const idInterval = setInterval(function () {
